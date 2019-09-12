@@ -1,0 +1,29 @@
+Component of Android
+1.activity 
+2.services
+3.content provided
+4.broadcast receiver
+
+DIALOGUES IN ANDROID
+A.Alert
+B.progress dialog
+C.date picker
+D.Time Picker
+
+
+INTENT
+1.1Explicit INTENT
+1.2Implicit INTENT
+
+DVM-Dalvinl Virtual Machine
+
+Activity Life Cycle
+1.onCreate
+2.onStart
+3.onResume
+4.onPause
+5.onStop
+6.onRestart
+7.onDestroys
+
+
